@@ -16,6 +16,8 @@ The scope of this project involves analyzing emergency room visit data to gain i
 
 The source system for this project was a dataset hosted on Data.World, a collaborative data platform that provides easy access to structured and curated datasets. The specific dataset, titled "Hospital ER," served as the foundation for analyzing emergency room visits. This system was chosen due to its open accessibility, well-organized data, and compatibility with Python's datadotworld library, which enabled seamless extraction of data through API integration.
 
+![Hospital Emergency Dashboard](Visualizations/powerbi.png)
+
 ## Findings
 
 #### 1. Average Wait Time findings:
