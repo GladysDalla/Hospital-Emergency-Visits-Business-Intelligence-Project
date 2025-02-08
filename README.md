@@ -18,20 +18,25 @@ The source system for this project was a dataset hosted on Data.World, a collabo
 
 ## Findings
 
-1. Average Wait Time findings:
+#### 1. Average Wait Time findings:
+
 a) An increase in average wait times from 35.03 minutes in 2019 to 35.55 in 2020 indicating a slight decline in operational efficiency, potentially due to higher patient volumes, resource constraints, or workflow bottlenecks. This trend highlights the need for targeted strategies to optimize patient flow, improve staff allocation, and address factors contributing to delays in the emergency room.
 b) The average wait time by department decreased from 33.81 minutes in 2019 to 33.72 minutes in 2020. The Gastroenterology department, which recorded the highest average wait time of 37 minutes in 2019, showed notable improvement, reducing its wait time to 34 minutes in 2020. Conversely, the Neurology department experienced an increase in average wait time, rising from 36 minutes in 2019 to 37 minutes in 2020, highlighting the need for an operational review and resource optimization to address inefficiencies.
 
-2. Patient Satisfaction Scores findings
+#### 2. Patient Satisfaction Scores findings
+
 The Patient Satisfaction Score increased from 5.42 in 2019 to 5.51 in 2020, indicating a slight improvement in overall patient satisfaction. However, this positive trend is accompanied by a significant data gap: 6,699 out of 9,216 visits (approximately 73%) had no recorded satisfaction ratings. The lack of feedback from such a large percentage of visits presents a challenge in accurately assessing the true patient experience and identifying areas for improvement.
 
-3. Departmental Referral Distribution findings
+#### 3. Departmental Referral Distribution findings
+
 The General Practice department saw a 14% increase in referrals, rising from 14K in 2019 to 16K in 2020, while the Orthopedics department experienced a 12.5% increase, growing from 8K in 2019 to 9K in 2020. Cardiology, Physiotherapy, and Neurology departments remained stable at 2K referrals each for both years, showing no significant change in demand.
 
-4. Patient Demographics Analysis
+#### 4. Patient Demographics Analysis
+
 The Age Group Distribution graph reveals that the majority of patients fall into the Adult age group, accounting for 4.8% of the total. The Elderly and Middle Childhood age groups make up the next largest proportions, with 2.2% and 0.7% respectively. The Teenager, Early Childhood, and Infancy age groups have the smallest percentages, all below 0.2%. Turning to the Gender Distribution, the data shows that the patient population is predominantly Male, making up 5.0% of the total. Females account for 4.7% of the patients. There is a very small percentage (0.0%) of patients with an unspecified or non-conforming gender.
 
-5. Administrative vs. Non-Administrative Appointments
+#### 5. Administrative vs. Non-Administrative Appointments
+
 The findings indicate a near-equal distribution between Administrative and Non-Administrative Appointments, with 50.04% of appointments categorized as Administrative and 49.96% as Non-Administrative. This balanced split suggests that both types of appointments are nearly equally represented, highlighting the importance of both operational functions in the organization.
 
 ## Insights Deep-Dive
